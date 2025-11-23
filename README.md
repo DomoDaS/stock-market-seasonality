@@ -61,5 +61,3 @@ https://public.tableau.com/app/profile/dominique.dasilva/viz/SeasonalTrendsinU_S
 📧 Email: domodasilva@yahoo.com
 
 💼 LinkedIn: https://www.linkedin.com/in/dominique-dasilva-2a2b93384/
-
-🌐 GitHub: https://github.com/DomoDaS
