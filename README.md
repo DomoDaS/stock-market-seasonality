@@ -1,8 +1,8 @@
 # Stock Market Seasonality & Performance Analysis
 
-**Author:** Dominique DaSilva  
-**Tools:** SQL (Google BigQuery), Tableau  
-**Data Source:** Yahoo Finance historical prices  
+- Analyzed multi-year U.S. index data using BigQuery SQL to calculate monthly returns.
+- Found historically strong performance in **April** and **November**, and weak performance in **September**.
+- Built a Tableau dashboard to visualize seasonal patterns for portfolio timing decisions.
 
 ---
 
@@ -52,6 +52,14 @@ https://public.tableau.com/app/profile/dominique.dasilva/viz/SeasonalTrendsinU_S
 - SQL (BigQuery)  
 - Tableau (optional visualization)  
 - GitHub (for documentation)  
+
+---
+
+## Skills Demonstrated
+- SQL window functions and time-series aggregation in BigQuery  
+- Financial return calculations (monthly percentage returns)  
+- Data storytelling through Tableau dashboards  
+- Translating technical patterns into portfolio strategy implications
 
 ---
 
