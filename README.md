@@ -43,8 +43,9 @@ Demonstrates seasonality patterns that can guide portfolio strategy evaluation.
 
 ## Visualization
 
-![Dashboard](visuals/dashboard_1.png)
-![Sheet](visuals/sheet_1.png)
+![Dashboard](visuals/Dashboard%201.png)
+
+![Monthly Returns Table](visuals/Sheet%201.png)
 
 
 ---
