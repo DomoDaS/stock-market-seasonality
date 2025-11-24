@@ -42,9 +42,10 @@ Demonstrates seasonality patterns that can guide portfolio strategy evaluation.
 ---
 
 ## Visualization
-Interactive trend chart available in Tableau Public (showing average return by month):  
-View Dashboard on Tableau Public 
-https://public.tableau.com/app/profile/dominique.dasilva/viz/SeasonalTrendsinU_S_StockIndices20102024/Dashboard1
+
+![Dashboard](visuals/dashboard_1.png)
+![Sheet](visuals/sheet_1.png)
+
 
 ---
 
